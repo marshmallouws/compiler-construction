@@ -1,0 +1,11 @@
+T__0=1
+T__1=2
+T__2=3
+NAVN=4
+CCNUM=5
+CCEXP=6
+WHITESPACE=7
+COMMENT=8
+'Holder:'=1
+'Number:'=2
+'Expiry:'=3
